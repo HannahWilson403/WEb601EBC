@@ -1,0 +1,16 @@
+.Header {
+    box-sizing:  border-box;
+    font-size: larger;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding: 1em;
+    margin-bottom: 0;
+    background-color: orangered;
+    color: rgb(27, 24, 24);
+}
+
+.img {
+    display: flex;
+    justify-content: left;
+}
